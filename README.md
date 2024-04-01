@@ -21,3 +21,10 @@ Windows Powershell
 ```
  <venv>\Scripts\Activate.ps1
 ```
+
+
+## Requirements thus far
+
+* Torch
+* segmentation-models-pytorch
+* albumentations
