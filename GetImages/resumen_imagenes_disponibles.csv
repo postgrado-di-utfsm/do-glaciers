@@ -1,0 +1,13 @@
+sector,product,type,count
+Glaciar Grey,aerial,monobanda,48
+Glaciar Grey,planet_scope,mss 8bands,4
+Glaciar Grey,planet_scope,qa 8bands,4
+Petorca,aerial,monobanda,10
+Petorca,jilin,mss 4bands,1
+Petorca,jilin,pan,1
+Valparaiso,aerial,monobanda,45
+Valparaiso,jilin,mss 4bands,5
+Valparaiso,jilin,pan,5
+Valparaiso,skysat,mss 4bands,3
+Valparaiso,skysat,qa 1bands,3
+Valparaiso,skysat,qa 8bands,3
